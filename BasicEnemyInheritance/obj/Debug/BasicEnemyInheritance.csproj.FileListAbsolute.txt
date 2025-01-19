@@ -1,0 +1,7 @@
+C:\Unity Projects\BasicEnemyInheritance\BasicEnemyInheritance\obj\Debug\BasicEnemyInheritance.csproj.AssemblyReference.cache
+C:\Unity Projects\BasicEnemyInheritance\BasicEnemyInheritance\obj\Debug\BasicEnemyInheritance.csproj.CoreCompileInputs.cache
+C:\Unity Projects\BasicEnemyInheritance\BasicEnemyInheritance\bin\Debug\BasicEnemyInheritance.exe.config
+C:\Unity Projects\BasicEnemyInheritance\BasicEnemyInheritance\bin\Debug\BasicEnemyInheritance.exe
+C:\Unity Projects\BasicEnemyInheritance\BasicEnemyInheritance\bin\Debug\BasicEnemyInheritance.pdb
+C:\Unity Projects\BasicEnemyInheritance\BasicEnemyInheritance\obj\Debug\BasicEnemyInheritance.exe
+C:\Unity Projects\BasicEnemyInheritance\BasicEnemyInheritance\obj\Debug\BasicEnemyInheritance.pdb
